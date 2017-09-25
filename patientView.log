@@ -1,0 +1,189 @@
+13:36:08,289  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@71248c21: startup date [Mon Sep 25 13:36:08 CST 2017]; root of context hierarchy
+13:36:08,441  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [applicationContext.xml]
+13:36:59,724  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@58fdd99: startup date [Mon Sep 25 13:36:59 CST 2017]; root of context hierarchy
+13:36:59,859  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+13:37:00,473  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [redis-context.xml]
+13:37:01,024  INFO AutowiredAnnotationBeanPostProcessor:155 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+13:37:02,575  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@58fdd99: startup date [Mon Sep 25 13:36:59 CST 2017]; root of context hierarchy
+13:37:02,704  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@58fdd99: startup date [Mon Sep 25 13:36:59 CST 2017]; root of context hierarchy
+13:37:02,764  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@58fdd99: startup date [Mon Sep 25 13:37:02 CST 2017]; root of context hierarchy
+13:37:03,092  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+13:37:03,874  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [redis-context.xml]
+13:37:05,384  INFO AutowiredAnnotationBeanPostProcessor:155 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+13:37:06,619  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@58fdd99: startup date [Mon Sep 25 13:37:02 CST 2017]; root of context hierarchy
+13:37:06,705  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@58fdd99: startup date [Mon Sep 25 13:37:02 CST 2017]; root of context hierarchy
+13:37:08,604  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@58fdd99: startup date [Mon Sep 25 13:37:08 CST 2017]; root of context hierarchy
+13:37:08,775  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+13:37:09,382  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [redis-context.xml]
+13:37:09,899  INFO AutowiredAnnotationBeanPostProcessor:155 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+13:37:10,949  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@58fdd99: startup date [Mon Sep 25 13:37:08 CST 2017]; root of context hierarchy
+13:37:11,044  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@58fdd99: startup date [Mon Sep 25 13:37:08 CST 2017]; root of context hierarchy
+13:37:47,756  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@38364841: startup date [Mon Sep 25 13:37:47 CST 2017]; root of context hierarchy
+13:37:47,925  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+13:37:48,340  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [redis-context.xml]
+13:37:48,932  INFO AutowiredAnnotationBeanPostProcessor:155 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+13:37:50,696  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@38364841: startup date [Mon Sep 25 13:37:47 CST 2017]; root of context hierarchy
+13:37:50,851  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@38364841: startup date [Mon Sep 25 13:37:47 CST 2017]; root of context hierarchy
+13:40:18,183  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@57829d67: startup date [Mon Sep 25 13:40:18 CST 2017]; root of context hierarchy
+13:40:18,284  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+13:40:18,839  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [redis-context.xml]
+13:40:19,467  INFO AutowiredAnnotationBeanPostProcessor:155 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+13:40:20,280  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@57829d67: startup date [Mon Sep 25 13:40:18 CST 2017]; root of context hierarchy
+13:40:20,338  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@57829d67: startup date [Mon Sep 25 13:40:18 CST 2017]; root of context hierarchy
+13:44:40,325  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@38364841: startup date [Mon Sep 25 13:44:40 CST 2017]; root of context hierarchy
+13:44:40,450  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+13:44:40,873  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [redis-context.xml]
+13:44:41,429  INFO AutowiredAnnotationBeanPostProcessor:155 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+13:44:42,635  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@38364841: startup date [Mon Sep 25 13:44:40 CST 2017]; root of context hierarchy
+13:44:42,786  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@38364841: startup date [Mon Sep 25 13:44:40 CST 2017]; root of context hierarchy
+13:52:00,859  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@58fdd99: startup date [Mon Sep 25 13:52:00 CST 2017]; root of context hierarchy
+13:52:00,990  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+13:52:01,583  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [redis-context.xml]
+13:52:02,308  INFO AutowiredAnnotationBeanPostProcessor:155 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+13:52:03,742  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@58fdd99: startup date [Mon Sep 25 13:52:00 CST 2017]; root of context hierarchy
+13:52:03,844  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@58fdd99: startup date [Mon Sep 25 13:52:00 CST 2017]; root of context hierarchy
+13:52:08,696  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@58fdd99: startup date [Mon Sep 25 13:52:08 CST 2017]; root of context hierarchy
+13:52:08,816  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+13:52:09,400  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [redis-context.xml]
+13:52:10,120  INFO AutowiredAnnotationBeanPostProcessor:155 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+13:52:11,468  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@58fdd99: startup date [Mon Sep 25 13:52:08 CST 2017]; root of context hierarchy
+13:52:13,788  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@58fdd99: startup date [Mon Sep 25 13:52:13 CST 2017]; root of context hierarchy
+13:52:13,971  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+13:52:14,520  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [redis-context.xml]
+13:52:15,201  INFO AutowiredAnnotationBeanPostProcessor:155 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+13:52:16,370  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@58fdd99: startup date [Mon Sep 25 13:52:13 CST 2017]; root of context hierarchy
+13:52:16,479  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@58fdd99: startup date [Mon Sep 25 13:52:13 CST 2017]; root of context hierarchy
+13:52:19,809  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@58fdd99: startup date [Mon Sep 25 13:52:19 CST 2017]; root of context hierarchy
+13:52:19,974  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+13:52:23,135  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@58fdd99: startup date [Mon Sep 25 13:52:23 CST 2017]; root of context hierarchy
+13:52:23,450  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+13:52:24,119  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [redis-context.xml]
+13:52:24,734  INFO AutowiredAnnotationBeanPostProcessor:155 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+13:52:25,922  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@58fdd99: startup date [Mon Sep 25 13:52:23 CST 2017]; root of context hierarchy
+13:52:26,062  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@58fdd99: startup date [Mon Sep 25 13:52:23 CST 2017]; root of context hierarchy
+13:52:34,133  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@58fdd99: startup date [Mon Sep 25 13:52:34 CST 2017]; root of context hierarchy
+13:52:34,306  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+13:52:34,797  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [redis-context.xml]
+13:52:35,859  INFO AutowiredAnnotationBeanPostProcessor:155 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+13:52:37,534  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@58fdd99: startup date [Mon Sep 25 13:52:34 CST 2017]; root of context hierarchy
+13:52:37,711  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@58fdd99: startup date [Mon Sep 25 13:52:34 CST 2017]; root of context hierarchy
+13:52:39,886  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@58fdd99: startup date [Mon Sep 25 13:52:39 CST 2017]; root of context hierarchy
+13:52:40,062  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+13:52:40,568  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [redis-context.xml]
+13:52:41,224  INFO AutowiredAnnotationBeanPostProcessor:155 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+13:52:42,741  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@58fdd99: startup date [Mon Sep 25 13:52:39 CST 2017]; root of context hierarchy
+13:52:42,876  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@58fdd99: startup date [Mon Sep 25 13:52:39 CST 2017]; root of context hierarchy
+13:54:50,601  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@38364841: startup date [Mon Sep 25 13:54:50 CST 2017]; root of context hierarchy
+13:54:51,159  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+13:54:51,995  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [redis-context.xml]
+13:54:52,486  INFO AutowiredAnnotationBeanPostProcessor:155 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+13:54:53,666  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@38364841: startup date [Mon Sep 25 13:54:50 CST 2017]; root of context hierarchy
+13:54:53,739  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@38364841: startup date [Mon Sep 25 13:54:50 CST 2017]; root of context hierarchy
+14:00:45,912  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@38364841: startup date [Mon Sep 25 14:00:45 CST 2017]; root of context hierarchy
+14:00:46,013  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+14:00:46,500  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [redis-context.xml]
+14:00:47,095  INFO AutowiredAnnotationBeanPostProcessor:155 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+14:00:48,230  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@38364841: startup date [Mon Sep 25 14:00:45 CST 2017]; root of context hierarchy
+14:00:48,417  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@38364841: startup date [Mon Sep 25 14:00:45 CST 2017]; root of context hierarchy
+14:03:06,508  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@38364841: startup date [Mon Sep 25 14:03:06 CST 2017]; root of context hierarchy
+14:03:06,621  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+14:03:07,031  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [redis-context.xml]
+14:03:07,887  INFO AutowiredAnnotationBeanPostProcessor:155 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+14:03:09,087  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@38364841: startup date [Mon Sep 25 14:03:06 CST 2017]; root of context hierarchy
+14:03:09,234  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@38364841: startup date [Mon Sep 25 14:03:06 CST 2017]; root of context hierarchy
+14:04:25,954  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@38364841: startup date [Mon Sep 25 14:04:25 CST 2017]; root of context hierarchy
+14:04:26,079  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+14:04:26,484  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [redis-context.xml]
+14:04:27,054  INFO AutowiredAnnotationBeanPostProcessor:155 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+14:04:28,044  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@38364841: startup date [Mon Sep 25 14:04:25 CST 2017]; root of context hierarchy
+14:04:28,119  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@38364841: startup date [Mon Sep 25 14:04:25 CST 2017]; root of context hierarchy
+14:05:36,843  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@38364841: startup date [Mon Sep 25 14:05:36 CST 2017]; root of context hierarchy
+14:05:36,972  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+14:05:37,393  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [redis-context.xml]
+14:05:37,931  INFO AutowiredAnnotationBeanPostProcessor:155 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+14:05:39,340  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@38364841: startup date [Mon Sep 25 14:05:36 CST 2017]; root of context hierarchy
+14:05:39,479  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@38364841: startup date [Mon Sep 25 14:05:36 CST 2017]; root of context hierarchy
+14:08:52,964  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:08:52 CST 2017]; root of context hierarchy
+14:08:53,060  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+14:08:53,419  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [redis-context.xml]
+14:08:53,751  INFO AutowiredAnnotationBeanPostProcessor:155 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+14:08:54,798  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:08:52 CST 2017]; root of context hierarchy
+14:08:54,866  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:08:52 CST 2017]; root of context hierarchy
+14:14:29,657  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:14:29 CST 2017]; root of context hierarchy
+14:14:29,765  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+14:14:30,102  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [redis-context.xml]
+14:14:30,429  INFO AutowiredAnnotationBeanPostProcessor:155 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+14:14:31,451  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:14:29 CST 2017]; root of context hierarchy
+14:14:31,510  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:14:29 CST 2017]; root of context hierarchy
+14:15:42,193  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@57829d67: startup date [Mon Sep 25 14:15:42 CST 2017]; root of context hierarchy
+14:15:42,317  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+14:15:42,692  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [redis-context.xml]
+14:15:43,033  INFO AutowiredAnnotationBeanPostProcessor:155 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+14:15:43,992  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@57829d67: startup date [Mon Sep 25 14:15:42 CST 2017]; root of context hierarchy
+14:15:44,122  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@57829d67: startup date [Mon Sep 25 14:15:42 CST 2017]; root of context hierarchy
+14:20:30,909  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:20:30 CST 2017]; root of context hierarchy
+14:20:31,014  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+14:20:31,374  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [redis-context.xml]
+14:20:31,690  INFO AutowiredAnnotationBeanPostProcessor:155 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+14:20:32,597  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:20:30 CST 2017]; root of context hierarchy
+14:20:32,718  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:20:30 CST 2017]; root of context hierarchy
+14:21:22,068  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:21:22 CST 2017]; root of context hierarchy
+14:21:22,221  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+14:21:22,580  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [redis-context.xml]
+14:21:23,000  INFO AutowiredAnnotationBeanPostProcessor:155 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+14:21:23,896  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:21:22 CST 2017]; root of context hierarchy
+14:21:23,979  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:21:22 CST 2017]; root of context hierarchy
+14:22:22,112  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:22:22 CST 2017]; root of context hierarchy
+14:22:22,207  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+14:22:22,596  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [redis-context.xml]
+14:22:22,916  INFO AutowiredAnnotationBeanPostProcessor:155 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+14:22:23,804  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:22:22 CST 2017]; root of context hierarchy
+14:22:23,932  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:22:22 CST 2017]; root of context hierarchy
+14:23:05,355  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@38364841: startup date [Mon Sep 25 14:23:05 CST 2017]; root of context hierarchy
+14:23:05,469  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+14:23:05,929  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [redis-context.xml]
+14:23:06,551  INFO AutowiredAnnotationBeanPostProcessor:155 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+14:23:07,578  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@38364841: startup date [Mon Sep 25 14:23:05 CST 2017]; root of context hierarchy
+14:23:07,721  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@38364841: startup date [Mon Sep 25 14:23:05 CST 2017]; root of context hierarchy
+14:24:12,801  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:24:12 CST 2017]; root of context hierarchy
+14:24:12,937  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+14:24:13,477  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [redis-context.xml]
+14:24:13,940  INFO AutowiredAnnotationBeanPostProcessor:155 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+14:24:15,079  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:24:12 CST 2017]; root of context hierarchy
+14:24:15,153  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:24:12 CST 2017]; root of context hierarchy
+14:24:44,660  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:24:44 CST 2017]; root of context hierarchy
+14:24:44,752  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+14:24:45,154  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [redis-context.xml]
+14:24:45,565  INFO AutowiredAnnotationBeanPostProcessor:155 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+14:24:46,732  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:24:44 CST 2017]; root of context hierarchy
+14:24:46,875  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:24:44 CST 2017]; root of context hierarchy
+14:25:15,352  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:25:15 CST 2017]; root of context hierarchy
+14:25:15,455  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+14:25:15,805  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [redis-context.xml]
+14:25:16,127  INFO AutowiredAnnotationBeanPostProcessor:155 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+14:25:17,064  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:25:15 CST 2017]; root of context hierarchy
+14:25:17,152  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:25:15 CST 2017]; root of context hierarchy
+14:28:15,739  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:28:15 CST 2017]; root of context hierarchy
+14:28:15,828  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+14:28:16,247  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [redis-context.xml]
+14:28:16,811  INFO AutowiredAnnotationBeanPostProcessor:155 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+14:28:17,654  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:28:15 CST 2017]; root of context hierarchy
+14:28:17,740  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:28:15 CST 2017]; root of context hierarchy
+14:28:38,967  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:28:38 CST 2017]; root of context hierarchy
+14:28:39,055  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+14:28:39,433  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [redis-context.xml]
+14:28:39,746  INFO AutowiredAnnotationBeanPostProcessor:155 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+14:28:40,732  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:28:38 CST 2017]; root of context hierarchy
+14:28:40,871  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:28:38 CST 2017]; root of context hierarchy
+14:29:29,187  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:29:29 CST 2017]; root of context hierarchy
+14:29:29,328  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+14:29:29,850  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [redis-context.xml]
+14:29:30,199  INFO AutowiredAnnotationBeanPostProcessor:155 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+14:29:31,128  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:29:29 CST 2017]; root of context hierarchy
+14:29:31,245  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:29:29 CST 2017]; root of context hierarchy
+14:31:23,933  INFO ClassPathXmlApplicationContext:583 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:31:23 CST 2017]; root of context hierarchy
+14:31:24,033  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring-context.xml]
+14:31:24,434  INFO XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [redis-context.xml]
+14:31:24,793  INFO AutowiredAnnotationBeanPostProcessor:155 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+14:31:25,980  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:31:23 CST 2017]; root of context hierarchy
+14:31:26,141  INFO RequestMappingHandlerAdapter:534 - Looking for @ControllerAdvice: org.springframework.context.support.ClassPathXmlApplicationContext@7a0ac6e3: startup date [Mon Sep 25 14:31:23 CST 2017]; root of context hierarchy
