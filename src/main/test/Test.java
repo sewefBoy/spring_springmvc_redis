@@ -1,7 +1,12 @@
+import com.cn.ssmr.model.PersonProto;
+import com.google.protobuf.InvalidProtocolBufferException;
+import com.googlecode.protobuf.format.JsonFormat;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 import org.springframework.data.redis.core.RedisTemplate;
+import org.springframework.data.redis.serializer.RedisSerializer;
+import org.springframework.data.redis.serializer.StringRedisSerializer;
 
 import javax.annotation.Resource;
 import java.util.List;
@@ -19,10 +24,16 @@ public class Test {
     static {
         ctx = new ClassPathXmlApplicationContext("spring-context.xml");
         redisTemplate = ctx.getBean("redisTemplate",RedisTemplate.class);
+        RedisSerializer stringSerializer = new StringRedisSerializer();
+        redisTemplate.setKeySerializer(stringSerializer);
+        redisTemplate.setValueSerializer(stringSerializer);
+        redisTemplate.setHashKeySerializer(stringSerializer);
+        redisTemplate.setHashValueSerializer(stringSerializer);
+
     }
 
     @org.junit.Test
-    public void testSpringRedis() {
+    public void testSpringRedis() throws InvalidProtocolBufferException, JsonFormat.ParseException {
         //stringRedisTemplate的操作
         // String读写
 //        redisTemplate.delete("myStr");
@@ -43,16 +54,16 @@ public class Test {
 //        System.out.println("---------------");
 //
 //        // Set读写
-        redisTemplate.delete("myset");
-        redisTemplate.opsForSet().add("myset", "A");
-        redisTemplate.opsForSet().add("myset", "b");
-        redisTemplate.opsForSet().add("myset", "C");
-        Set<String> setCache = redisTemplate.opsForSet().members(
-                "myset");
-        for (String s : setCache) {
-            System.out.println(s);
-        }
-        System.out.println("------运行结束---------");
+//        redisTemplate.delete("myset");
+//        redisTemplate.opsForSet().add("myset", "A");
+//        redisTemplate.opsForSet().add("myset", "b");
+//        redisTemplate.opsForSet().add("myset", "C");
+//        Set<String> setCache = redisTemplate.opsForSet().members(
+//                "myset");
+//        for (String s : setCache) {
+//            System.out.println(s);
+//        }
+//        System.out.println("------运行结束---------");
 //
 //        // Hash读写
 //        redisTemplate.delete("myHash");
@@ -65,5 +76,23 @@ public class Test {
 //            System.out.println(entry.getKey() + " - " + entry.getValue());
 //        }
 //        System.out.println("---------------");
+        int i = 10;
+        PersonProto.Person person = PersonProto.Person.newBuilder()
+                .setId(i)
+                .setEmail("email"+i)
+                .setName("name"+i)
+                .addPhone(PersonProto.Person.Phone.newBuilder().setPhoneNum("phoneNum"+i)
+                        .setPhoneType(0).build())
+                .build();
+        redisTemplate.opsForValue().set("myStr", person.toString());
+        Object obj = redisTemplate.opsForValue().get("myStr");
+        System.out.println(obj.toString().toCharArray());
+
+        PersonProto.Person.Builder person1 = PersonProto.Person.newBuilder();
+
+        String jsonFormat = "{id:11,name:'name10',email:'email10'}";
+        JsonFormat.merge(jsonFormat, person1);
+        JsonFormat.merge(obj.toString(), person1);
+        System.out.println(person1.getEmail());
     }
 }
